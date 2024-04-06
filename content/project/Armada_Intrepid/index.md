@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
+title: Armada Intrepid
 summary: Write about your project here...
 tags:
-  - NLP
+  - CV
 date: 2022-01-01
 external_link: http://github.com
 ---
