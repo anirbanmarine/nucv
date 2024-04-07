@@ -42,7 +42,7 @@ experience:
     date_start: '1993-07-01'
     date_end: '1995-03-31'
     description: |2-
-    	* WBHS (West Bengal Higher Secondary ) Examination passed.
+    	* WBHS(West Bengal Higher Secondary ) Examination passed.
     	* Subjects - Bengali,English,Physics,Chemistry,Mathematics,Biology.
     	* 63% marks attained
   
