@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Trainee Nautical Officer Cadet(T.N.O.C.)
+    company: Shipping Corporation of India
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: 
+    location: Mumbai,India
+    date_start: '1996-08-01'
+    date_end: '1999-08-02'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Onboard training 1 - M.V.Bharatendu-Break Bulk
+        * Onboard training 2 - M.T.SOMNATH SHARMA P.V.C.-Crude Oil Tanker
+        * Onboard training 3 - M.T.C.V.RAMAN-Crude Oil Tanker
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: 3rd Officer-Junior Officer
+    company: World Tankers,WorldWide Ship Management
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Singapore
+    date_start: '2000-07-15'
+    date_end: '2005-01-21'
+    description: 
+    	|Name of Vessel|Employer|Type|Deadweight|From|To|
+    	|--------------|--------|----|----------|----|----|
+    	|M.T.DIGNITY|WORLD TANKERS|PRODUCT TANKER|31302|2000-07-15|2001-01-15|
+    	
 
 design:
   columns: '1'
