@@ -25,14 +25,13 @@ experience:
   - title: Pre-Sea Training
     company: T.S.CHANAKYA
     company_url: 'https://www.imu.edu.in/imunew/navi-mumbai-campus'
-    company_logo:''
     location: Karave,Nerul,New Mumbai,India
     date_start: '1996-04-02'
     date_end: '1996-07-30'
     description: Pre-Sea Training completed.
     
 design:
-  columns: '1'
+columns: '1'
 ---
 	
     

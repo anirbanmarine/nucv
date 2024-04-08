@@ -41,12 +41,7 @@ experience:
     location: Singapore
     date_start: '2000-07-15'
     date_end: '2005-01-21'
-    description: 
-    	|Name of Vessel|Employer|Type|Deadweight|From|To|
-    	|--------------|--------|----|----------|----|----|
-    	|M.T.DIGNITY|WORLD TANKERS|PRODUCT TANKER|31302|2000-07-15|2001-01-15|
-    	
-
+    description:  
 design:
-  columns: '1'
+columns: '1'
 ---
