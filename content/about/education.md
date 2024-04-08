@@ -29,7 +29,7 @@ experience:
     location: Durgapur,West Bengal,India
     date_start: '1981-11-26'
     date_end: '1993-03-31'
-    description: |2-
+    description: 
         * ICSE exam passed
         * Subjects - Bengali,English,Physics,Chemistry,Mathematics,Biology,History,Geography,Economics
         * 73% marks attained
@@ -41,7 +41,7 @@ experience:
     location: Durgapur,West Bengal India
     date_start: '1993-07-01'
     date_end: '1995-03-31'
-    description: |2-
+    description: 
     	* WBHS(West Bengal Higher Secondary ) Examination passed.
     	* Subjects - Bengali,English,Physics,Chemistry,Mathematics,Biology.
     	* 63% marks attained
