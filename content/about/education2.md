@@ -17,15 +17,15 @@ experience:
   - title: 12th Pass
     company: Bidhan Chandra Institution for boys
     company_url: 'http://bcidgp.org.in'
-    company_logo: 
+    company_logo: ''
     location: Durgapur,West Bengal India
     date_start: '1993-07-01'
     date_end: '1995-03-31'
     
   - title: Pre-Sea Training
     company: T.S.CHANAKYA
-    company_url:'https://www.imu.edu.in/imunew/navi-mumbai-campus'
-    company_logo:
+    company_url: 'https://www.imu.edu.in/imunew/navi-mumbai-campus'
+    company_logo:''
     location: Karave,Nerul,New Mumbai,India
     date_start: '1996-04-02'
     date_end: '1996-07-30'
