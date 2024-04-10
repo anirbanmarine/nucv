@@ -41,7 +41,18 @@ experience:
     location: Singapore
     date_start: '2000-07-15'
     date_end: '2005-01-21'
-    description:  
+    description: Working as Junior Officer under the guidance of senior officer, responsible for LSA and FFA equipments under Chief Officer's Guidance.
+    
+  - title: 2nd Officer-Navigation Officer
+    company: Executive Ship Management
+    date_start: '2005-08-15'
+    date_end: '2005-01-21'
+    
+    
+  - title: 2nd Officer-Navigation Officer
+    company: K Lines
+    date_start: '2007-01-07'
+    date_end: '2007-06-26'
 design:
 columns: '1'
 ---

@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Personal
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
+    description: 'A curriculum vitae for Anirban Das'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''

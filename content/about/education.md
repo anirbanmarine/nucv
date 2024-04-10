@@ -1,5 +1,8 @@
 ---
+widget: experience
+
 headless: true
+
 weight: 30
 
 title: Education
@@ -13,7 +16,11 @@ experience:
     location: Durgapur,West Bengal,India
     date_start: '1981-11-26'
     date_end: '1993-03-31'
-    
+    description: |2-
+      * ICSE board.
+      * Subjects- English,Bengali,Science,Mathematics,History,Geography,Economics.
+      * 73% marks attained.
+      
   - title: 12th Pass
     company: Bidhan Chandra Institution for boys
     company_url: 'http://bcidgp.org.in'
@@ -21,6 +28,10 @@ experience:
     location: Durgapur,West Bengal India
     date_start: '1993-07-01'
     date_end: '1995-03-31'
+    description: |2-
+      * WBHS board.
+      * Subjects- Bengali,English,Mathematics,Physics,Chemistry,Biology.
+      * 63% marks attained.
     
   - title: Pre-Sea Training
     company: T.S.CHANAKYA
